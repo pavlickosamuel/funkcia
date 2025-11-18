@@ -17,4 +17,3 @@ def translation(text):
     return translated
 preklad = translation("hieeelalaooo")
 print(preklad)
-
